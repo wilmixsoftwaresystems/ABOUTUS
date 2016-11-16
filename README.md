@@ -5,7 +5,7 @@ WilmixSoftwareSystem  for  doing software projects   based  on  java/j2ee ,devel
 
 designing  framework   according  to  industry  standards.
 
-Wilmixsoftwaresystem  is   started  by  wilmix  jemin    at  nov  2016.
+
 
 
 
