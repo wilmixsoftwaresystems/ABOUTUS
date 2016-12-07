@@ -1,7 +1,7 @@
 # ABOUTUS
 ==========
 
-WilmixSoftwareSystem  for  doing software projects   based  on  java/j2ee ,developing  utilities,  and   
+WilmixSoftwareSystem  for  doing software projects  ,developing  utilities,  and   
 
 designing  framework   according  to  industry  standards.
 
