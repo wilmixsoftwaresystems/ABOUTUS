@@ -9,7 +9,7 @@ designing  framework   according  to  industry  standards.
 
 Designation:Project  Manager
 
-Role:  Project Lead in  java/j2ee.
+Role:  Project Lead.
 
 
 JOBCODE:  WSS0001
